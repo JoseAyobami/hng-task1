@@ -33,8 +33,8 @@ This is a FastAPI application that provides a REST API to analyze strings and st
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/JoseAyobami/hng-task1
+   cd hng-task1
    ```
 
 2. Install the dependencies:
